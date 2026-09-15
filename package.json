@@ -1,0 +1,19 @@
+{
+  "name": "synapsemed",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A calm study workspace for nursing graduates — read your own Google Drive notes with gentle AI help.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mammoth": "^1.9.0",
+    "pdfjs-dist": "^4.10.38"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
+  }
+}
